@@ -1,0 +1,16 @@
+[
+  {
+    "username": "forever001",
+    "password": "888888",
+    "permission": {
+      "type": "forever"
+    }
+  },
+  {
+    "username": "forever002",
+    "password": "999999",
+    "permission": {
+      "type": "forever"
+    }
+  }
+]
